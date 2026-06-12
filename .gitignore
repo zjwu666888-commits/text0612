@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production build output
+dist/
+build/
+
+# Test and coverage output
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files
+.env
+.env*.local
+
+# Caches
+.cache/
+.turbo/
+.eslintcache
+.next/cache/
+
+# Deployment
+.vercel/
+netlify/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
